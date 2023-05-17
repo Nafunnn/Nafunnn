@@ -134,6 +134,7 @@
 
 ## Activities
 
+<div>
 <br/>
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31dqir4bvxg7ug7h34eaghhbajfm&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=35f338&bar_color_cover=false)
@@ -145,6 +146,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/679911423588958285)](https://discord.com/users/679911423588958285)
 
 <br/>
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Nafunnn&&style=flat-square" align="center" />
