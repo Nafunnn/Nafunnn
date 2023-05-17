@@ -143,9 +143,9 @@
 
 <br/>
 
-<!--[![Discord Presence](https://lanyard.cnrad.dev/api/679911423588958285)](https://discord.com/users/679911423588958285)-->
-[![Discord Presence](https://lanyard.cnrad.dev/api/679911423588958285)](https://discord.com/users/679911423588958285)
-            
+            <div align="center"
+             [![Discord Presence](https://lanyard.cnrad.dev/api/679911423588958285)](https://discord.com/users/679911423588958285)
+            </div>       
 <br/>
 </div>
 
