@@ -144,8 +144,8 @@
 <br/>
 
 <!--[![Discord Presence](https://lanyard.cnrad.dev/api/679911423588958285)](https://discord.com/users/679911423588958285)-->
-[![Discord Presence](https://lanyard.cnrad.dev/api/243728573624614912?hideDiscrim=true)](https://discord.com/users/243728573624614912)
-            
+[![Discord Presence](https://lanyard.cnrad.dev/api/243728573624614912?hideDiscrim=true)](https://discord.com/users/679911423588958285)
+
 <br/>
 </div>
 
