@@ -1,16 +1,12 @@
 # My Profile
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-
-### <div align="center">I'm Naf'an, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>
+### <div align="center">I'm Naf'an, a full-time front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>
 
 - 🔭 I’m currently working on [My Portofolio](https://github.com/Nafunnn/Portfolio)
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes
+- 🌱 I’m currently learning JavaScript
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to technologies
 
 - ⚡ Fun fact: I use tabs over spaces
 
@@ -32,7 +28,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend
+<!-- ### Backend
 
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -68,9 +64,9 @@
 
 </td></tr></table>
 
-<br/>
+<br/> -->
 
-## Connect with me
+<!-- ## Connect with me
 
 <div align="center">
 <a href="https://linkedin.com/in/nafunnn" target="_blank">
@@ -119,7 +115,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>
-
+ -->
 <br/>
 
 ## Github Stats
@@ -152,15 +148,15 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
             <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>
+            </a></div> -->
 <br />
 
 ---
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
