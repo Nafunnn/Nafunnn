@@ -14,9 +14,9 @@
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
-### Frontend
+## Frontend
 
 <div align="center">  
   
@@ -26,38 +26,48 @@
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" height="50" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
+
+## Backend
+
+<div align="center">  
+
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://laravel.com/" target="_blank"> <img style="margin: 10px" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" height="50"/></a>
+</div>
+
+</td><td valign="top" width="25%">
 
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nafunnn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
-  
-<!-- ### Backend
 
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.capacitorjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="Capacitor" height="50" /></a>  
+</td><td valign="top" width="25%">
+
+## Activities
+
+<div>
+<br/>
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31dqir4bvxg7ug7h34eaghhbajfm&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=35f338&bar_color_cover=false)
+
+<br/>
+
+<br/>
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/679911423588958285)](https://discord.com/users/679911423588958285)
+
+            
+<br/>
 </div>
+</td>
 
-</td><td valign="top" width="33%">
-
-### DevOps
+<!--### DevOps
 
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -129,40 +139,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nafunnn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/> -->
-
-## Activities
-
-<div>
-<br/>
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31dqir4bvxg7ug7h34eaghhbajfm&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=35f338&bar_color_cover=false)
-
-<br/>
-
-<br/>
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/679911423588958285)](https://discord.com/users/679911423588958285)
-
-            
-<br/>
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Nafunnn&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<!-- <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div> -->
-<br />
-
----
 
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
