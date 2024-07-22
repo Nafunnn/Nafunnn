@@ -51,11 +51,6 @@
 ## Activities
 
 
-<br/>
-
-<br/>
-
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/679911423588958285)](https://discord.com/users/679911423588958285)
 
             
