@@ -1,6 +1,6 @@
 # My Profile
 
-### <div align="center">I'm Naf'an, a full-time front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>
+### <div align="center">I'm Naf'an, a part-time back-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>
 
 - 🔭 I’m currently working on [My Portofolio](https://github.com/Nafunnn/Portfolio)
 
