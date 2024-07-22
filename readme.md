@@ -50,10 +50,6 @@
 
 ## Activities
 
-<div>
-<br/>
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31dqir4bvxg7ug7h34eaghhbajfm&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=35f338&bar_color_cover=false)
 
 <br/>
 
